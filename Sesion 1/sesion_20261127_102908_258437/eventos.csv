@@ -1,0 +1,314 @@
+﻿tiempo_s,frame_id,tipo,ciclo,lado_activo,zona,detalle,comando,envio_serial
+9e-05,0,inicio_sesion,1,izquierda,,Inicia sesión de prueba,,
+4.73327,43,entrada_zona_activa,1,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+11.64569,96,entrada_zona_activa,1,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+13.45958,113,entrada_zona_activa,1,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+30.12263,243,cambio_ciclo,2,derecha,,Alternancia por temporizador,,
+30.24811,244,entrada_zona_activa,2,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+31.5133,252,entrada_zona_activa,2,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+36.78018,288,entrada_zona_activa,2,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+41.26762,313,entrada_zona_activa,2,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+43.41132,326,entrada_zona_activa,2,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+56.91281,418,entrada_zona_activa,2,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+60.03544,438,cambio_ciclo,3,izquierda,,Alternancia por temporizador,,
+90.2056,618,cambio_ciclo,4,derecha,,Alternancia por temporizador,,
+91.63442,624,entrada_zona_activa,4,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+92.86325,629,entrada_zona_activa,4,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+94.94604,640,entrada_zona_activa,4,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+97.7077,660,entrada_zona_activa,4,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+110.69549,757,entrada_zona_activa,4,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+120.13424,813,cambio_ciclo,5,izquierda,,Alternancia por temporizador,,
+120.26906,814,entrada_zona_activa,5,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+124.00134,833,entrada_zona_activa,5,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+133.15309,875,entrada_zona_activa,5,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+140.53585,909,entrada_zona_activa,5,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+144.53217,934,entrada_zona_activa,5,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+148.28407,961,entrada_zona_activa,5,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+150.08497,973,cambio_ciclo,6,derecha,,Alternancia por temporizador,,
+155.88723,1014,entrada_zona_activa,6,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+157.48075,1026,entrada_zona_activa,6,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+159.13793,1036,entrada_zona_activa,6,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+169.81648,1109,entrada_zona_activa,6,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+172.02747,1122,entrada_zona_activa,6,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+172.99095,1129,entrada_zona_activa,6,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+175.13669,1145,entrada_zona_activa,6,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+180.01728,1177,cambio_ciclo,7,izquierda,,Alternancia por temporizador,,
+205.82275,1344,entrada_zona_activa,7,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+207.12866,1353,entrada_zona_activa,7,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+210.12734,1373,cambio_ciclo,8,derecha,,Alternancia por temporizador,,
+221.47984,1448,entrada_zona_activa,8,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+222.56687,1454,entrada_zona_activa,8,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+240.05857,1589,cambio_ciclo,9,izquierda,,Alternancia por temporizador,,
+240.17036,1590,entrada_zona_activa,9,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+257.98668,1698,entrada_zona_activa,9,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+259.25895,1707,entrada_zona_activa,9,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+261.34712,1724,entrada_zona_activa,9,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+270.00373,1790,cambio_ciclo,10,derecha,,Alternancia por temporizador,,
+270.10194,1791,entrada_zona_activa,10,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+277.50869,1847,entrada_zona_activa,10,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+287.21312,1911,entrada_zona_activa,10,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+288.37586,1917,entrada_zona_activa,10,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+291.09549,1932,entrada_zona_activa,10,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+291.48659,1934,entrada_zona_activa,10,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+296.58688,1970,entrada_zona_activa,10,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+298.31356,1983,entrada_zona_activa,10,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+299.24697,1989,entrada_zona_activa,10,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+300.15923,1993,cambio_ciclo,11,izquierda,,Alternancia por temporizador,,
+330.19662,2122,cambio_ciclo,12,derecha,,Alternancia por temporizador,,
+332.87802,2135,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+334.44842,2146,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+335.67629,2156,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+336.71627,2164,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+336.99427,2166,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+338.22117,2176,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+341.86143,2188,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+346.30677,2209,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+347.10406,2215,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+347.80592,2220,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+352.40204,2255,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+354.63617,2272,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+357.06583,2284,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+359.8148,2298,entrada_zona_activa,12,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+360.21586,2299,cambio_ciclo,13,izquierda,,Alternancia por temporizador,,
+390.08586,2381,cambio_ciclo,14,derecha,,Alternancia por temporizador,,
+390.23301,2382,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+391.2369,2389,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+392.1511,2396,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+393.03701,2403,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+393.72511,2408,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+395.11589,2414,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+398.30219,2417,entrada_zona_activa,14,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+399.11937,2423,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+399.68662,2428,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+401.57591,2444,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+402.27975,2450,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+403.0631,2457,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+403.84964,2464,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+405.40093,2478,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+405.52474,2479,entrada_zona_activa,14,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+409.81363,2518,entrada_zona_activa,14,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+411.57004,2532,entrada_zona_activa,14,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+413.56439,2547,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+415.77038,2553,entrada_zona_activa,14,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+420.01315,2570,cambio_ciclo,15,izquierda,,Alternancia por temporizador,,
+450.10721,2744,cambio_ciclo,16,derecha,,Alternancia por temporizador,,
+467.53314,2833,entrada_zona_activa,16,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+469.15363,2845,entrada_zona_activa,16,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+475.71273,2907,entrada_zona_activa,16,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+480.08351,2952,cambio_ciclo,17,izquierda,,Alternancia por temporizador,,
+493.02416,3080,entrada_zona_activa,17,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+495.27588,3102,entrada_zona_activa,17,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+499.21822,3143,entrada_zona_activa,17,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+501.31794,3165,entrada_zona_activa,17,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+504.56511,3199,entrada_zona_activa,17,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+507.67702,3229,entrada_zona_activa,17,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+510.08902,3251,cambio_ciclo,18,derecha,,Alternancia por temporizador,,
+526.99646,3389,entrada_zona_activa,18,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+527.67081,3395,entrada_zona_activa,18,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+529.67554,3413,entrada_zona_activa,18,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+534.00466,3450,entrada_zona_activa,18,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+540.0984,3502,cambio_ciclo,19,izquierda,,Alternancia por temporizador,,
+540.23978,3503,entrada_zona_activa,19,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+541.0448,3507,entrada_zona_activa,19,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+549.05141,3561,entrada_zona_activa,19,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+570.11532,3745,cambio_ciclo,20,derecha,,Alternancia por temporizador,,
+570.21848,3746,entrada_zona_activa,20,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+583.19623,3846,entrada_zona_activa,20,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+600.01616,3997,cambio_ciclo,21,izquierda,,Alternancia por temporizador,,
+605.48905,4045,entrada_zona_activa,21,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+630.0442,4258,cambio_ciclo,22,derecha,,Alternancia por temporizador,,
+632.2688,4270,entrada_zona_activa,22,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+642.53064,4371,entrada_zona_activa,22,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+643.96028,4384,entrada_zona_activa,22,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+644.56118,4390,entrada_zona_activa,22,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+648.74952,4433,entrada_zona_activa,22,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+650.04383,4445,entrada_zona_activa,22,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+656.606,4500,entrada_zona_activa,22,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+657.51093,4508,entrada_zona_activa,22,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+659.96627,4528,entrada_zona_activa,22,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+660.01151,4528,cambio_ciclo,23,izquierda,,Alternancia por temporizador,,
+690.06064,4787,cambio_ciclo,24,derecha,,Alternancia por temporizador,,
+690.2058,4788,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+692.2415,4804,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+693.17049,4812,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+695.55183,4834,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+697.30672,4850,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+698.56134,4861,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+702.30351,4897,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+702.88675,4902,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+704.62507,4918,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+706.18086,4933,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+707.12696,4942,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+708.85373,4958,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+709.9556,4968,entrada_zona_activa,24,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+711.7232,4986,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+713.72725,5004,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+715.5324,5021,entrada_zona_activa,24,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+715.98445,5025,entrada_zona_activa,24,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+720.04129,5062,cambio_ciclo,25,izquierda,,Alternancia por temporizador,,
+750.03238,5285,cambio_ciclo,26,derecha,,Alternancia por temporizador,,
+750.21579,5286,entrada_zona_activa,26,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+758.34208,5337,entrada_zona_activa,26,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+763.9563,5368,entrada_zona_activa,26,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+770.03232,5419,entrada_zona_activa,26,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+770.77174,5425,entrada_zona_activa,26,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+774.34389,5454,entrada_zona_activa,26,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+780.48608,5492,entrada_zona_activa,26,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+780.57109,5492,cambio_ciclo,27,izquierda,,Alternancia por temporizador,,
+810.368,5683,cambio_ciclo,28,derecha,,Alternancia por temporizador,,
+810.54838,5684,entrada_zona_activa,28,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+822.93718,5754,entrada_zona_activa,28,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+824.19623,5764,entrada_zona_activa,28,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+826.03691,5782,entrada_zona_activa,28,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+827.75855,5796,entrada_zona_activa,28,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+829.17504,5808,entrada_zona_activa,28,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+832.19259,5825,entrada_zona_activa,28,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+835.03822,5844,entrada_zona_activa,28,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+835.6815,5848,entrada_zona_activa,28,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+836.7606,5855,entrada_zona_activa,28,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+837.05655,5857,entrada_zona_activa,28,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+839.87427,5875,entrada_zona_activa,28,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+840.11331,5876,cambio_ciclo,29,izquierda,,Alternancia por temporizador,,
+870.07973,6047,cambio_ciclo,30,derecha,,Alternancia por temporizador,,
+870.8749,6051,entrada_zona_activa,30,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+871.58034,6055,entrada_zona_activa,30,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+874.05387,6074,entrada_zona_activa,30,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+876.83683,6096,entrada_zona_activa,30,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+881.16779,6130,entrada_zona_activa,30,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+900.02971,6280,cambio_ciclo,31,izquierda,,Alternancia por temporizador,,
+908.07013,6328,entrada_zona_activa,31,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+930.14672,6501,cambio_ciclo,32,derecha,,Alternancia por temporizador,,
+930.32548,6502,entrada_zona_activa,32,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+938.18817,6542,entrada_zona_activa,32,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+940.56381,6558,entrada_zona_activa,32,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+944.17763,6582,entrada_zona_activa,32,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+948.43439,6611,entrada_zona_activa,32,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+952.17309,6644,entrada_zona_activa,32,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+954.53041,6662,entrada_zona_activa,32,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+955.73416,6672,entrada_zona_activa,32,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+958.54081,6692,entrada_zona_activa,32,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+958.8865,6694,entrada_zona_activa,32,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+959.67333,6699,entrada_zona_activa,32,derecha,1,Detectada por centroide de TLD,s,deshabilitado
+960.09731,6701,cambio_ciclo,33,izquierda,,Alternancia por temporizador,,
+981.33327,6873,entrada_zona_activa,33,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+990.02738,6960,cambio_ciclo,34,derecha,,Alternancia por temporizador,,
+992.61731,6987,entrada_zona_activa,34,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+993.87663,6997,entrada_zona_activa,34,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+998.54827,7033,entrada_zona_activa,34,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1000.40308,7047,entrada_zona_activa,34,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1000.90983,7051,entrada_zona_activa,34,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1012.86321,7149,entrada_zona_activa,34,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1015.83906,7172,entrada_zona_activa,34,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1020.08971,7209,cambio_ciclo,35,izquierda,,Alternancia por temporizador,,
+1023.16938,7232,entrada_zona_activa,35,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+1034.21949,7318,entrada_zona_activa,35,izquierda,3,Detectada por centroide de TLD,h,deshabilitado
+1042.48821,7384,entrada_zona_activa,35,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1050.13634,7454,cambio_ciclo,36,derecha,,Alternancia por temporizador,,
+1058.7692,7495,entrada_zona_activa,36,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1067.66924,7549,entrada_zona_activa,36,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1080.03193,7646,cambio_ciclo,37,izquierda,,Alternancia por temporizador,,
+1083.21552,7674,entrada_zona_activa,37,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1098.03398,7769,entrada_zona_activa,37,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1104.6556,7812,entrada_zona_activa,37,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1110.16292,7843,cambio_ciclo,38,derecha,,Alternancia por temporizador,,
+1110.99226,7844,entrada_zona_activa,38,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1140.09457,8024,cambio_ciclo,39,izquierda,,Alternancia por temporizador,,
+1151.02851,8114,entrada_zona_activa,39,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1152.48783,8126,entrada_zona_activa,39,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1164.77213,8204,entrada_zona_activa,39,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1165.73768,8212,entrada_zona_activa,39,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1170.11808,8250,cambio_ciclo,40,derecha,,Alternancia por temporizador,,
+1171.34018,8260,entrada_zona_activa,40,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1172.65698,8269,entrada_zona_activa,40,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1173.33476,8273,entrada_zona_activa,40,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1173.83721,8277,entrada_zona_activa,40,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1176.10184,8297,entrada_zona_activa,40,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1177.447,8309,entrada_zona_activa,40,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1179.01598,8323,entrada_zona_activa,40,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1179.2963,8325,entrada_zona_activa,40,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1194.9743,8446,entrada_zona_activa,40,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1195.25492,8448,entrada_zona_activa,40,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1196.68655,8460,entrada_zona_activa,40,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1197.74406,8469,entrada_zona_activa,40,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1200.09412,8490,cambio_ciclo,41,izquierda,,Alternancia por temporizador,,
+1200.50996,8494,entrada_zona_activa,41,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1203.38473,8520,entrada_zona_activa,41,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+1203.74701,8523,entrada_zona_activa,41,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+1207.08031,8550,entrada_zona_activa,41,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+1207.8839,8553,entrada_zona_activa,41,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1208.7622,8558,entrada_zona_activa,41,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1219.47217,8654,entrada_zona_activa,41,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1220.00955,8658,entrada_zona_activa,41,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1220.36982,8661,entrada_zona_activa,41,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1222.38841,8679,entrada_zona_activa,41,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+1222.62575,8681,entrada_zona_activa,41,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+1230.0211,8752,cambio_ciclo,42,derecha,,Alternancia por temporizador,,
+1235.03615,8801,entrada_zona_activa,42,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1235.55785,8806,entrada_zona_activa,42,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1235.90521,8809,entrada_zona_activa,42,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1236.02937,8810,entrada_zona_activa,42,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1244.74457,8892,entrada_zona_activa,42,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1245.42577,8898,entrada_zona_activa,42,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1246.0049,8903,entrada_zona_activa,42,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1248.07126,8921,entrada_zona_activa,42,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1248.99467,8929,entrada_zona_activa,42,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1255.49228,8982,entrada_zona_activa,42,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1260.03543,9025,cambio_ciclo,43,izquierda,,Alternancia por temporizador,,
+1265.77403,9079,entrada_zona_activa,43,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1268.80643,9108,entrada_zona_activa,43,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1284.68158,9265,entrada_zona_activa,43,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1290.06366,9306,cambio_ciclo,44,derecha,,Alternancia por temporizador,,
+1290.19998,9307,entrada_zona_activa,44,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1291.17781,9312,entrada_zona_activa,44,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1295.70083,9343,entrada_zona_activa,44,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1296.03551,9345,entrada_zona_activa,44,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1297.25789,9354,entrada_zona_activa,44,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1298.91339,9366,entrada_zona_activa,44,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1300.542,9377,entrada_zona_activa,44,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1301.85554,9388,entrada_zona_activa,44,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1302.10644,9390,entrada_zona_activa,44,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1302.82475,9396,entrada_zona_activa,44,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1304.65248,9411,entrada_zona_activa,44,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1320.05857,9557,cambio_ciclo,45,izquierda,,Alternancia por temporizador,,
+1320.14419,9558,entrada_zona_activa,45,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1322.25043,9577,entrada_zona_activa,45,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1350.10373,9847,cambio_ciclo,46,derecha,,Alternancia por temporizador,,
+1351.08124,9857,entrada_zona_activa,46,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1368.97915,10033,entrada_zona_activa,46,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1369.31352,10036,entrada_zona_activa,46,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1369.43107,10037,entrada_zona_activa,46,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1370.54981,10047,entrada_zona_activa,46,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1371.31933,10054,entrada_zona_activa,46,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1372.02722,10060,entrada_zona_activa,46,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1380.06463,10132,cambio_ciclo,47,izquierda,,Alternancia por temporizador,,
+1388.96841,10219,entrada_zona_activa,47,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1401.17656,10341,entrada_zona_activa,47,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1410.04508,10426,cambio_ciclo,48,derecha,,Alternancia por temporizador,,
+1410.13581,10427,entrada_zona_activa,48,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1412.02877,10442,entrada_zona_activa,48,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1420.73464,10514,entrada_zona_activa,48,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1421.84836,10525,entrada_zona_activa,48,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1422.30122,10529,entrada_zona_activa,48,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1424.35551,10548,entrada_zona_activa,48,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1424.80578,10552,entrada_zona_activa,48,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1434.28328,10635,entrada_zona_activa,48,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1435.57318,10646,entrada_zona_activa,48,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1435.84043,10648,entrada_zona_activa,48,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1437.74177,10665,entrada_zona_activa,48,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1439.40223,10679,entrada_zona_activa,48,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1439.8476,10682,entrada_zona_activa,48,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1440.00306,10683,entrada_zona_activa,48,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1440.06199,10683,cambio_ciclo,49,izquierda,,Alternancia por temporizador,,
+1442.89851,10708,entrada_zona_activa,49,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+1447.25424,10747,entrada_zona_activa,49,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1447.4221,10748,entrada_zona_activa,49,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+1460.15772,10867,entrada_zona_activa,49,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1460.4082,10869,entrada_zona_activa,49,izquierda,1,Detectada por centroide de TLD,g,deshabilitado
+1468.02329,10940,entrada_zona_activa,49,izquierda,2,Detectada por centroide de TLD,a,deshabilitado
+1470.05273,10958,cambio_ciclo,50,derecha,,Alternancia por temporizador,,
+1474.59696,11001,entrada_zona_activa,50,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1479.2578,11045,entrada_zona_activa,50,derecha,3,Detectada por centroide de TLD,f,deshabilitado
+1481.05107,11061,entrada_zona_activa,50,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1482.1687,11071,entrada_zona_activa,50,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1483.40518,11082,entrada_zona_activa,50,derecha,2,Detectada por centroide de TLD,d,deshabilitado
+1497.53813,11220,fin_sesion,50,,,,,
