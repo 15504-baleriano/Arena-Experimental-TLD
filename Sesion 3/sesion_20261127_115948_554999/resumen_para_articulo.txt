@@ -1,0 +1,6 @@
+RESULTADOS DE SESIÓN (medición real; revisar y citar condiciones)
+Duración: 1500.08 s. Fotogramas procesados: 10296. FPS efectivos: 6.86.
+Actualizaciones TLD con success=True: 10296; success=False: 0; porcentaje success: 100.0 %.
+Episodios success=False: 0. Eventos de entrada registrados: 253.
+Ciclos con imágenes: 50; alternancia programada de 30 s.
+Estas cifras no son exactitud de detección ni validación de activaciones sin referencia independiente.

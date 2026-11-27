@@ -1,0 +1,63 @@
+{
+  "tipo_evaluacion": "registro_funcional_no_validacion_de_precision",
+  "inicio_local": "2026-11-27T11:59:48-06:00",
+  "fin_local": "2026-11-27T12:24:48-06:00",
+  "duracion_real_s": 1500.0781,
+  "ciclos_programados": 50,
+  "duracion_programada_ciclo_s": 30.0,
+  "ciclos_con_fotogramas": 50,
+  "camara": "Logitech C270 (declarada por el operador; no verificada por software)",
+  "altura_camara_m_declarada": 1.5,
+  "fov_diagonal_nominal_grados_declarado": 55,
+  "resolucion_real_px": [
+    640,
+    480
+  ],
+  "iluminacion_declarada": "LED visible; describir condiciones reales",
+  "objeto_y_condiciones_declaradas": "Vehículo de control remoto",
+  "sistema_operativo": "Windows-10-10.0.26200-SP0",
+  "opencv_version": "4.8.0",
+  "tracker": "cv2.legacy.TrackerTLD_create",
+  "ROI_inicial_px": [
+    466,
+    222,
+    89,
+    55
+  ],
+  "region_principal_fraccion": 0.85,
+  "numero_fotogramas_procesados": 10296,
+  "actualizaciones_success_reportadas": 10296,
+  "actualizaciones_failure_reportadas": 0,
+  "porcentaje_success_reportado": 100.0,
+  "episodios_de_perdida_reportados": 0,
+  "episodios_de_recuperacion_reportados": 0,
+  "eventos_entrada_zona_activa_generados": 253,
+  "comandos_seriales_enviados": 0,
+  "arduino_habilitado": false,
+  "fps_efectivos_sesion": 6.864,
+  "tiempo_actualizacion_tracker_ms": {
+    "n": 10296,
+    "media": 109.743,
+    "desviacion_estandar_muestral": 84.036,
+    "min": 30.073,
+    "max": 1410.274,
+    "p95": 174.573
+  },
+  "tiempo_iteracion_hasta_registro_ms": {
+    "n": 10296,
+    "media": 111.112,
+    "desviacion_estandar_muestral": 86.885,
+    "min": 30.798,
+    "max": 1742.627,
+    "p95": 176.382
+  },
+  "advertencias": [
+    "success=True no certifica una caja correcta ni garantiza tasa de éxito según IoU.",
+    "Eventos son decisiones de software, NO tasa de aciertos contra video anotado.",
+    "Pérdidas: transiciones a success=False; no incluyen deriva no detectada por TLD.",
+    "FPS = fotogramas procesados / duración real, no propiedad de cámara.",
+    "La grabación MJPG usa 20 FPS nominales de reproducción, NO velocidad real de captura.",
+    "No se midieron IoU, RMSE, precisión espacial ni latencia de giro físico.",
+    "La geometría FOV es nominal y no una calibración de cámara."
+  ]
+}
